@@ -1,4 +1,4 @@
-# AI-Enabled-Student-Advising-Assistant-for-Course-Pathway-Planning
+# AI-Enabled Student Advising Assistant for Course Pathway Planning
 An AI assistant for academic advising that optimizes course plans based on degree rules, student history, and resource constraints. Features rule- and learning-based modeling, interactive advisor editing/annotation, and robust guardrails to ensure viable, equitable pathways at scale.
 
 > **Graph-Based Prerequisite Modeling & Capacity-Aware Student Advising Platform**
