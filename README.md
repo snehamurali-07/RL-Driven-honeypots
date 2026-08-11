@@ -429,8 +429,31 @@ Possible future improvements include:
 
 ---
 
+## 👥 Team Members
+
+This project was developed by:
+
+| Name              | Role        | Contribution                                   |
+| ----------------- | ----------- | ---------------------------------------------- |
+| **Sneha Murali**  | Team Member | Project design, development, and documentation |
+| **Lahari G M**    | Team Member | ______________________________                 |
+| **Chandana N**    | Team Member | ______________________________                 |
+| **Tejaswini A**   | Team Member | ______________________________                 |
+
+### Project Guide
+
+**Guide:** *Ms. Ashishika Singh* <br>
+**Department:** *School of Computer Science and Engineering* <br>
+**Institution:** *Presidency University, Bangalore* <br>
+
+---
+
+## 🤝 Contributions
+
+All team members contributed to the design, development, testing, analysis, and documentation of the **RL-Driven Adaptive Honeypot** project.
+
+---
+
 ## 📜 License
 
 This project is intended for educational and authorized cybersecurity research purposes.
-
-Add an appropriate open-source license if you decide to publish the implementation publicly.
