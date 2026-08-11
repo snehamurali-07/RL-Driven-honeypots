@@ -78,8 +78,8 @@ The collected interaction data can then be analyzed to identify attacker behavio
                     ┌─────────────────────────┐
                     │    Response Manager     │
                     │                         │
-                    │ Dynamic Honeypot         │
-                    │ Responses / Behavior     │
+                    │ Dynamic Honeypot        │
+                    │ Responses / Behavior    │
                     └────────────┬────────────┘
                                  │
                                  ▼
